@@ -1,0 +1,1 @@
+SELECT MAX(orderDate),  MIN(orderDate) FROM mintclassics.orders;
