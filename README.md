@@ -67,9 +67,10 @@ In this project, I will step into the shoes of an entry-level data analyst at th
 >> - As our goal is to minimize the storage facility by  reorganization or reduction our inventory. so after investigation and data analysis of company's inventory i found there are 3 main important factors that may influence inventory reorganization/reduction which are [product scale, ordered to Stock quantity percentage,  profit]
 >> - Before conducting analysis based on the preceeding factors, i will narrow the scope of analysis by split the products into four quartiles based on *profits* they achieved and i will take the least 25% profit achieving products.
 >>- The qualified products to make some changes on (reduction or reorganizing) are products that have
-<h6 align="center">([highest] product scale +  [lowest] ordered to Stock quantity percentage +  [lowest] profit)</h6> 
->> - I faced a problem to find porducts with this criteria [**highest** +  **lowest** +  **lowest**]. so, to solve this problem i used **scoring method** to rank each product according to each variable such that **(the worst takes least rank)** which means if a product has the lowest profit, it will take rank 1. and if it has highest scale which means it is unfavorable. so it will take least rank and so on.
->> - After giving each factor for each product rank. i will sum them up and give some focus to the least scoring product to do more investigations  
+<p align="center">(<b>highest</b> product scale +  <b>lowest</b> ordered to Stock quantity percentage +  <b>lowest</b> profit)</p>
+
+>>- I faced a problem to find porducts with this criteria [<b>**highest**</b> +  **lowest** +  **lowest**]. so, to solve this problem i used **scoring method** to rank each product according to each variable such that **(the worst takes least score)** which means if a product has the lowest profit, it will take score 1. and if it has highest scale which means it is unfavorable. so it will take least score and so on.
+>>- After giving each factor for each product score. i will sum them up and give some focus to the least scoring product to do more investigations  
 
   # 3) Execute📄
   >> after exploring and analyzing the data of Mint Classics Company 
