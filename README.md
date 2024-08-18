@@ -32,7 +32,7 @@ In this project, I will step into the shoes of an entry-level data analyst at th
       
 >### 2. Structuring
 >>1. isolate and identify parts of the data that could be useful in deciding how to reduce inventory. 
->>>2. adding some columns to assist in analysis process and drawing conclusions
+>>2. adding some columns to assist in analysis process and drawing conclusions
 
 
 | cloumn name  | description |
