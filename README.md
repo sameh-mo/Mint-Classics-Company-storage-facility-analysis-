@@ -68,10 +68,10 @@ In this project, I will step into the shoes of an entry-level data analyst at th
 
   # 3) Execute📄
   >> after exploring and analyzing the data of Mint Classics Company 
->>>- it is recommended to give more focus for inventory levels and make it fit with number of orders  
->>>>1. after rearranging process of inventory levels in the company's warehousses. it will be much space enable us to empty one or even two of our warehouses
->>>>2. restructring process of inventory will reduce costs of holding inventory that have low profit rate
->>>>3. there is a product needs to be dropped form the product line as it achives zero profits  ['1985 Toyota Supra']
+>>>- it is recommended to give more focus to inventory levels and make them fit with the number of orders  
+>>>1. after rearranging process of inventory levels in the company's warehousses. it will be much space enable us to empty one or even two of our warehouses
+>>>2. restructring process of inventory will reduce costs of holding inventory that have low profit rate
+>>>3. there is a product needs to be dropped form the product line as it achives zero profits  ['1985 Toyota Supra']
  ![image](https://github.com/user-attachments/assets/ac1eac04-cebe-422b-af48-b65267930c2f)
 
 
